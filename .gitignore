@@ -1,0 +1,19 @@
+dist
+node_modules
+.env
+
+# VSCode
+.vscode
+
+.DS_Store
+.env
+node_modules/
+examples/
+guides/
+docs/
+.husky/
+.prettierignore
+.prettierrc
+.prettier.config.js
+.lintstagedrc
+notes.txt
